@@ -1,0 +1,15 @@
+ .nome{
+     width: 100px;
+     height: 100px;
+     border: 1px solid black;
+ }
+ .verde{
+     background-color: green;
+ }
+ .azul{
+     background-color: blue;
+ }
+ .vermelho{
+     background-color: red;
+ }
+
