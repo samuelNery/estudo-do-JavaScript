@@ -1,0 +1,18 @@
+.imagem{
+    height: 300px;
+    border: 2px solid #999;
+    box-shadow: 3px 3px 7px black;
+    margin-bottom: 30px;
+}
+button{
+    padding: 5px;
+    border: 1px solid #999;
+    border-radius: 7px;
+    box-shadow: 5px 5px 5px black;
+    cursor: pointer;
+    
+}
+
+.imagem2{
+    height: 450px;
+}

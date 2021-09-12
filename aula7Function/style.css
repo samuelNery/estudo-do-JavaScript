@@ -1,0 +1,7 @@
+ .h2{
+     background-color: green;
+     font-size: 35px;
+     color: #fff;
+     border: 2px solid red;
+     display: inline;
+ }
