@@ -4,6 +4,12 @@ function subir(){
         behavior:"smooth"
     })  
 }
+function subirDoc(){
+    document.querySelector('.texto').scrollTo({
+        top:0,
+        behavior:'smooth'
+    })
+}
 function ocultaButton(){   
     if(scrollY === 0){
         document.querySelector('.subir').style.display='none'
